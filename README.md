@@ -71,42 +71,7 @@ ii      ,;  ,FccXJLmwqqqppddddbbkhaaaaaaooooaaaaaaaaaaooooaaaaahkkbdpqqqqqwwwmJX
 ```                                                      
                                                                                     
                                                                                                  
-                                                                                                    
+                                                                                                
 
+<img width="740" height="492" alt="blackboard-inscribed-with-scientific-formulas-calculations_1150-19413" src="https://github.com/user-attachments/assets/11010276-7ba3-4c34-9cbf-e56c9dab001b" />
 
-#HOLA
-
-DSA Notes
-
-## Arrays
-- Prefix Sum
-- Sliding Window
-- Two Pointers
-
-## Strings
-### KMP
-Notes...
-
-### Rabin-Karp
-Notes...
-
-## Graphs
-### BFS
-...
-
-## Dynamic Programming
-...
-
-## Hard LeetCode
-
-### 943 - Find the Shortest Superstring
-- Bitmask DP
-- TSP
-
-### 1012 - Numbers With Repeated Digits
-- Digit DP
-- Bitmask
-
-### 1044 - Longest Duplicate Substring
-- Binary Search
-- Rolling Hash
