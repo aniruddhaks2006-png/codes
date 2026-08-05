@@ -74,4 +74,3 @@ ii      ,;  ,FccXJLmwqqqppddddbbkhaaaaaaooooaaaaaaaaaaooooaaaaahkkbdpqqqqqwwwmJX
                                                                                                 
 
 <img width="740" height="492" alt="blackboard-inscribed-with-scientific-formulas-calculations_1150-19413" src="https://github.com/user-attachments/assets/11010276-7ba3-4c34-9cbf-e56c9dab001b" />
-
